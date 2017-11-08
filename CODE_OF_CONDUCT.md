@@ -1,46 +1,68 @@
-# Contributor Covenant Code of Conduct
+# Katkıcı Ahdi Topluluk Sözleşmesi
 
-## Our Pledge
+## Teminatımız
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+Herkes için açık ve erişilebilir bir ortam sağlamak amacıyla projenin
+katkıcıları ve yürütücüleri olarak, katkı vermeyi yaş, beden tipi,
+engel durumu, etnik köken, cinsel kimlik, cinsel yönelim, cinsiyet ifadesi,
+tecrübe, milliyet, dış görünüş, ırk ve din ayrımı gözetmeden keyifli
+ve güvenli bir tecrübe haline getirmeyi taahhüt ederiz.
 
-## Our Standards
+## Kaidelerimiz
 
-Examples of behavior that contributes to creating a positive environment include:
+Olumlu bir ortam yaratmaya yardımcı davranışlara aşağıdakiler örnek
+gösterilebilir:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+* Hoşgörülü ve kapsayıcı bir dil kullannmak
+* Farklı görüşlere ve deneyimlere karşı saygılı olmak
+* Yapıcı eleştirileri hoş karşılamak
+* Topluluk için en iyisinin ne olduğuna odaklanmak
+* Topluluğun diğer üyelerine empatiyle yaklaşmak
 
-Examples of unacceptable behavior by participants include:
+Kabul edilemez davranışlara aşağıdakiler örnek gösterilebilir:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+* Cinsiyetçi dil veya görsellerin kullanımı ve diğer katkıcılara istenmeyen
+  romantik ilgi göstermek veya romantik tekliflerde bulunmak
+* Trollemek, hakaret/aşağılama içeren yorumlar ve birinin şahsına veya siyasi
+  görüşlerine saldırmak
+* Birini alenen veya gizlice taciz etmek
+* Başka insanların kişisel bilgilerini, mesela ev adreslerini, rızaları olmadan
+  yayınlamak
+* Profesyonel bir ortamda uygunsuz kaçabilecek davranışlarda bulunmak
 
-## Our Responsibilities
+## Yetki ve Sorumluluklarımız
 
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+Proje yürütücüleri, katkıcılardan bekledikleri davranış biçimini açıklamakla ve
+kabul edilemez davranışlara karşı tekrarlanmamaları için adil ve uygun bir şekilde
+gerekli düzenlemeleri yapmakla sorumludur.
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+Proje yürütücüleri bu sözleşmeye uymayan yorumları, commit'leri, wiki girdilerini,
+hata kayıtlarını veya diğer katkıları silme, değiştirme veya reddetme
+yetkisine sahiptir. Buna davranışları uygunsuz, kırıcı, saldırgan veya zararlı
+bulunan katkıcıları geçiçi veya kalıcı olarak projeden uzaklaştırmak da dahildir.
 
-## Scope
+## Kapsam
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+Bu sözleşme projeye ait alanlarda ve birinin projeyi veya topluluğunu kamusal
+bir alanda temsil etmesi halinde geçerlidir. Projeyi temsil etmek, projenin
+domain'inine sahip bir e-posta adresi kullanmak, projenin sosyal medya hesaplarını
+yönetmek veya bir etkinlikte proje adına görev almak şeklinde olabilir. Projenin
+temsilini proje yürütücüleri tanımlayabilir veya detaylandırabilir.
 
-## Enforcement
+## İcra
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at info@acikinovasyon.org. The project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Kabul edilemeyecek herhangi bir davranış içeren bir olay yaşanması durumunda proje
+ekibiyle bu adresten [info@acikinovasyon.org] iletişim kurulabilir. Bu adrese iletilen
+bütün şikayetler dikkate alınacak, araştırılacak ve duruma uygun bir şekilde
+yanıtlanacaktır. Proje ekibi olayı haber veren kişinin kimliğini gizli tutmakla
+yükümlüdür. Sözleşmenin icrasına dair yönergeler ayrıca yayınlanabilir.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+Proje yönetimi bu sözleşmeyi iyi niyetle uygulamayan proje yürütücülerine
+karşı geçici veya kalıcı yaptırımlar uygulayabilir.
 
-## Attribution
+## Kaynak
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
+Bu Topluluk Sözleşmesi, [Contributor Covenant][homepage] 1.4 sürümünden çevrilmiştir,
+aslına bu adresten erişebilirsiniz https://www.contributor-covenant.org/tr/version/1/4/code-of-conduct.html
 
-[homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
+[homepage]: https://www.contributor-covenant.org

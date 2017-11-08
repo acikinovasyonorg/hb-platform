@@ -1,15 +1,17 @@
-# hb-platform - Platform for Hack'nBreak Open Innovation Camp
-Hack'nBreak Platform tries to solve all Hack'nBreak requirements. Since we believe "we are smarter than me" motto, it is a contribution based repository. Any code/fix/idea/translation -briefly anything- will be much welcomed.
+# hb-platform - Hack'nBreak Açık İnovasyon Kampı Platformu
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://ozgurlisanslar.org.tr/gpl/gpl-v3/)
 
-See [http://hacknbreak.com](http://hacknbreak.com "Hack'nBreak Open Innovation Camp") for more information.
+[:uk: ENGLISH](README_en.md)
 
-## Contribution
-Please note that this project is released with a
-[Contributor Code of Conduct](CODE_OF_CONDUCT.md).
-By participating in this project and its community you agree to abide by those terms.
+Hack'nBreak Platformu, Hack'nBreak ihtiyaçlarını çözmeye çalışan bir uygulamadır. Bizler, "biz benden akıllıyız" fikrine inandığımızdan, bu, katkı temelli bir depodur. Herhangi kod/çözüm/fikir/çeviri -kısaca herhangi bir şey- bizleri mutlu edecektir!
 
-## Requirements
-Nothing. Anyone can contribute that project.
+Daha detaylı bilgi için [http://hacknbreak.com](http://hacknbreak.com "Hack'nBreak Open Innovation Camp") web sayfasını ziyaret edebilirsiniz.
 
-## License
-hb-platform is licensed under the GNU/GPL License - see the [LICENSE](LICENSE.md) file for details
+## Katkı
+Lütfen bu projenin [Katkıcı Ahdi Topluluk Sözleşmesi](CODE_OF_CONDUCT.md) ile yayınlandığını unutmayın. Bu topluluğa veya depoya katkıda bulunarak, bu şartları yerine getirmeyi kabul etmektesiniz.
+
+## Gereksinimler
+Hiçbir şey! İsteyen herkes bu depoya katkıda bulunabilir.
+
+## Lisans
+hb-platform, GNU Genel Kamu Lisansı ile lisanslanmıştır. Detaylar için [GPL v3](http://ozgurlisanslar.org.tr/gpl/gpl-v3/ "GPL v3 | Özgür Lisanslar") adresine göz atabilirsiniz.
