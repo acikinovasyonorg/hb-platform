@@ -5,7 +5,7 @@ See [http://hacknbreak.com](http://hacknbreak.com "Hack'nBreak Open Innovation C
 
 ## Contribution
 Please note that this project is released with a
-[Contributor Code of Conduct](http://contributor-covenant.org/version/1/4/).
+[Contributor Code of Conduct](CODE_OF_CONDUCT.md).
 By participating in this project and its community you agree to abide by those terms.
 
 ## Requirements
