@@ -12,4 +12,4 @@ By participating in this project and its community you agree to abide by those t
 Nothing. Anyone can contribute that project.
 
 ## License
-hb-platform is licensed under the GNU/GPL License - see the [LICENSE](LICENSE) file for details
+hb-platform is licensed under the GNU/GPL License - see the [LICENSE](LICENSE.md) file for details
